@@ -17,7 +17,7 @@ class ChatBox:
         main_frame.pack(fill=tk.BOTH, expand=True, padx=10, pady=10)
 
         # Title
-        title_label = tk.Label(main_frame, text="Python Chatbox", font=('Arial', 16, 'bold'), bg='#f0f0f0', fg='#333')
+        title_label = tk.Label(main_frame, text="SIGAA Chatbox", font=('Arial', 16, 'bold'), bg='#f0f0f0', fg='#333')
         title_label.pack(pady=(0, 10))
 
         # Chat display area
